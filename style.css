@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+
+.header {
+  width: auto;
+  color: red;
+}
+
+.img-container {
+  text-align: center;
+}
+
+nav ul li a {
+  padding: 10px 10px;
+  text-decoration: none; 
+  background-color: grey
+  border-top-left-radius: 1em 1em; /* rounded corner! */
+  border-top-right-radius: 1em 1em; /* another rounded corner! */
+}
+
+img {
+  font-size: xx-small;
+}
+
+p.featured-property {
+  width: 800px;
+  text-align: center;
+  
+}
+
+div {
+  float: left;
+}
